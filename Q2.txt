@@ -1,0 +1,29 @@
+Selenium:
+    Selenium is one of the most widely adopted open-source automation testing frameworks for web applications. It supports multiple programming languages such as Java, Python, C#, and more, making it highly versatile. Selenium provides a suite of tools like Selenium WebDriver, Selenium IDE, and Selenium Grid, allowing testers to write and execute automated test scripts across different browsers and platforms.
+
+Appium:
+    Appium is an open-source mobile application automation testing framework. It is specifically designed for automating native, hybrid, and mobile web applications on iOS and Android devices. Appium allows testers to write automation scripts in various programming languages, including Java, Python, JavaScript, Ruby, and more, making it accessible to a broad range of developers.
+
+TestComplete:
+    TestComplete is a commercial automation testing tool by SmartBear. It supports both web and desktop applications and provides a comprehensive set of features for test creation, execution, and reporting. TestComplete supports multiple scripting languages, including JavaScript, Python, and VBScript, and also offers features like object recognition, data-driven testing, and distributed testing.
+
+JUnit and TestNG:
+    JUnit and TestNG are popular testing frameworks for Java applications. They provide a set of annotations and assertions to facilitate the creation and execution of test cases. These frameworks are widely used for unit testing and integration testing, allowing developers to test individual units of code in isolation.
+
+Cucumber:
+    Cucumber is an open-source tool based on the Gherkin language, enabling behavior-driven development (BDD). It allows testers and stakeholders to write test scenarios in a human-readable format and then convert them into executable test scripts using step definitions. Cucumber promotes collaboration between business stakeholders and technical teams.
+
+Robot Framework:
+    Robot Framework is an open-source, keyword-driven automation testing framework that supports both web and desktop applications. It is easy to use and allows testers to write test cases in a simple tabular format. Robot Framework also supports keyword libraries for additional functionalities.
+
+Cypress:
+    Cypress is an open-source JavaScript-based testing framework designed for testing web applications. It offers fast, reliable, and easy-to-use automation capabilities. Cypress provides a real-time interactive test runner, which enables developers to see the application state while tests are running.
+
+Ranorex:
+    Ranorex is a commercial automation testing tool that supports web, mobile, and desktop applications. It provides a user-friendly interface and supports both codeless and code-based test automation. Ranorex also offers robust object recognition and data-driven testing capabilities.
+
+Katalon Studio:
+    Katalon Studio is a free and powerful automation testing tool for web, mobile, and API testing. It is built on top of Selenium and Appium, making it easy to create and execute automated tests. Katalon Studio also supports various integrations, such as Jira and Git, to streamline the testing process.
+
+HP UFT (Unified Functional Testing):
+    Formerly known as QTP (QuickTest Professional), HP UFT is a commercial automation testing tool that supports web, desktop, and mobile applications. It provides a keyword-driven approach to create test cases and also supports scripting using VBScript.
